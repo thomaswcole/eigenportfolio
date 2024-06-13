@@ -5,7 +5,7 @@ I wrote this package to enable myself to explore the properties of eigenportfoli
 Please see the examle notebook.
 
 Performance of First Eigenportfolio vs DJIA
-!(eigen/data/port_performance.png)
+![](eigen/data/port_performance.png)
 
 Weights of First Eigenportfolio
 !(eigen/data/port_weights.png)
