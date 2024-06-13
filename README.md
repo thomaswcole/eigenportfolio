@@ -1,0 +1,5 @@
+### eigenportfolio
+
+I wrote this package to enable myself to explore the properties of eigenportfolios more seamlessly. The main phenonen I was interested in exploring was the relationship between the first eigenportfolio and the index. That is, it is well known that the first eigenportfolio essentially models the market.
+
+Please see the examle notebook.
